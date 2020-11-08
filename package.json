@@ -1,0 +1,26 @@
+{
+  "name": "game-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liorEhrlich/boat-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liorEhrlich/boat-game/issues"
+  },
+  "homepage": "https://github.com/liorEhrlich/boat-game#readme",
+  "dependencies": {
+    "three": "^0.122.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
