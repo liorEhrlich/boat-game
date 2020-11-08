@@ -1,5 +1,5 @@
-node-modules/
-.cache/
-dist/
-.vscode
-.env
+node_modules
+*.log
+.DS_Store
+.idea
+Iconr
